@@ -45,7 +45,7 @@
 - Google Maps URL連携
 - Claude Code + GitHub で継続開発中
 
-### 🤖 Gemini-pi
+### 🤖 [Gemini-pi](https://github.com/jokerzart/Gemini-Pi)
 > Raspberry Pi 3B × Gemini API | 自作音声AIアシスタント
 
 - WiFiスタンバイモードで3時間以上稼働
